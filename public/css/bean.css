@@ -1,0 +1,57 @@
+body {
+    font-family: 'anonymous pro', 'courier new', 'andale mono', monospace;
+    font-size: 100%;
+    color: #aaa;
+    line-height: 1.5em;
+    background: #000312;
+}
+
+h1 {
+    font-size:4em;
+    line-height:1.13em;
+    padding: 5px;
+    margin: 5px;
+}
+
+img {
+    border: none;
+}
+
+p {
+    padding: 1px;
+    margin: 1px;
+}
+
+#body {
+    width: 500px;
+    margin: 0px auto;
+}
+
+#nondenominational {
+    padding: 5px;
+    margin: 5px;
+}
+
+#world {
+    padding: 5px;
+    margin: 5px;
+}
+
+#meeting {
+    padding: 5px;
+    margin: 5px;
+}
+
+#quote {
+    font-size: 1.5em;
+    line-height: 1.33em;
+    margin: 5px;
+    padding: 5px;
+}
+
+#attribution {
+    font-size: 1em;
+    line-height: 1.33em;
+    margin: 5px 5px 5px 50px;
+    padding: 5px;
+}
