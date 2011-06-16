@@ -5,6 +5,4 @@ The website for Code Coffee Raleigh, an informal meeting of software developers 
 
 # License
 
-In short: It's free, have fun, respect content that is under other licenses.
-
 See LICENSE.txt for full details.
