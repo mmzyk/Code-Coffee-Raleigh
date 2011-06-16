@@ -1,0 +1,4 @@
+Copyright (C) 2011
+
+This code is provided "as is" without warranty, express or implied.
+It may be used without restriction, with the exceptions of those portions that fall under other licenses as specified by the creator of the content.
