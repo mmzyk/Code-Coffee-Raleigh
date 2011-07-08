@@ -1,9 +1,12 @@
 body {
     font-family: 'anonymous pro', 'courier new', 'andale mono', monospace;
     font-size: 100%;
-    color: #aaa;
+    color: #fff;
+    /* color: #aaa; */
     line-height: 1.5em;
-    background: #000312;
+    background: #000000;
+    max-width: 80%;
+    padding: 5px;
 }
 
 h1 {
@@ -14,12 +17,27 @@ h1 {
 }
 
 img {
-    border: none;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border: none; 
 }
 
 p {
     padding: 1px;
     margin: 1px;
+}
+
+a {
+    color: #070;
+}
+
+.content {
+    padding: 10px;
+}
+
+.nav {
+    text-align: center;
 }
 
 #body {
@@ -45,13 +63,14 @@ p {
 #quote {
     font-size: 1.5em;
     line-height: 1.33em;
-    margin: 5px;
+    margin: 10px 10px 0px 10px;
     padding: 5px;
+    font-style: oblique;
 }
 
 #attribution {
     font-size: 1em;
     line-height: 1.33em;
-    margin: 5px 5px 5px 50px;
-    padding: 5px;
+    margin: 0px 5px 15px 100px;
+    padding: 0px;
 }
