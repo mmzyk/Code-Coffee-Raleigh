@@ -30,6 +30,11 @@ p {
 
 a {
     color: #070;
+    text-decoration: none
+}
+
+a:hover {
+    text-decoration: underline;
 }
 
 .content {
