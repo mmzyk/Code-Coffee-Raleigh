@@ -3,11 +3,12 @@ Copyright (C) 2011 Mark Mzyk
 This code is provided "as is" without warranty, express or implied.
 It may be used without restriction, with the exceptions of those portions that fall under other licenses as specified.
 
-The image on this blog (espresso.png) is licensed under Creative Commons 2.0.
+The image on this blog (espresso.png) is licensed under Creative Commons 2.0, specifically the
+Attribution-NonCommercial-ShareAlike 2.0 Generic license.
 
 See here:
 
-http://creativecommons.org/licenses/by-nc-sa/2.0/
+http://creativecommons.org/licenses/by-nc-sa/2.0/deed.en
 
 The original image that was modified is available on Flickr, here:
 
